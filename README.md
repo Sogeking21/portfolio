@@ -7,6 +7,6 @@ Portfolio
  ## Icones
 
  :packege: nova funcionalidade
- :up:atuaçização
- :beatle:correção de bug
+ :up: atuaçização
+ :beatle: correção de bug
  :checkered_flag: release
